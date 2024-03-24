@@ -14,7 +14,7 @@ mvn package
 Также эти операции можно произвести при помощи интерфейса IDE. Гайд по установке Maven: [https://maven.apache.org/install.html](https://maven.apache.org/install.html)
 
 ```
-P.s. Jar файл находится в папке target
+P.s. bootcampPartII-1.0-SNAPSHOT.jar находится в папке target
 ```
 
 После “компиляции” проект можно запустить как из используемой IDE (но с нюансом, о нём позже), так и из консоли:
